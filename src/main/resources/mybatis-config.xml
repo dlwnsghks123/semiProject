@@ -24,7 +24,11 @@
         <typeAlias alias="SpecialPriceDto" type="com.hanssem.app.dto.SpecialPriceDto"/>
 
         <typeAlias alias="InteriorDto" type="com.hanssem.app.dto.InteriorDto"/>
+<<<<<<< HEAD
         <typeAlias alias="InteriordetailDto" type="com.hanssem.app.dto.InteriordetailDto"/>
+=======
+        <typeAlias alias="QnaDto" type="com.hanssem.app.dto.QnaDto"/>
+>>>>>>> upstream/main
 
 
 
